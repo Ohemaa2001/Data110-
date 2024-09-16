@@ -14,9 +14,11 @@
 3. Gained experience and applied for a job at a medical office
 
 *My Favorite Quote*
-There is no better teacher than adversity 
-- Malcom X
-      This quote has been a motivating statement for me for the past couple of years. I try my best to remember my reasons as to why I need to achieve m goals and try my best to be better everyday.
+> There is no better teacher than adversity 
+
+ - Malcome X
+
+    This quote has been a motivating statement for me for the past couple of years. I try my best to remember my reasons as to why I need to achieve m goals and try my best to be better everyday.
 
 *How I rate the week with Work Task & Personal Life hobbies 1-10*
 
@@ -25,8 +27,7 @@ There is no better teacher than adversity
 | 1 | 3  | 4 | 8   |  10  | 10|   4  |
 
 *Goals that I have done for this year and the next*
-[x] Travel to Europe 
-[x] Try Senegalese Jollof[^1]
-[^1]Jollof Rice is a popular West African dish that has been a topic of debate amongst many countries like Ghana and Nigeria. I finally Tried the original version, and I can confirm that the Senegalese make it the best!, Scatterplot, 1(1).
-[ ] Go to Tanzania
-
+- [x] Travel to Europe 
+- [x] Try Senegalese Jollof[^1]
+[^1] Jollof Rice is a popular West African dish that has been a topic of debate amongst many countries like Ghana and Nigeria. I finally Tried the original version, and I can confirm that the Senegalese make it the best!, Scatterplot, 1(1).
+- [ ] Go to Tanzania
