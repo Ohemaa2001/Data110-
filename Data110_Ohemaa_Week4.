@@ -44,12 +44,12 @@
         "plt.show()"
       ],
       "metadata": {
-        "id": "oJ-Hkt7V-FS6",
-        "outputId": "d701d9c2-8b4c-41f6-8835-9c328907c642",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 430
-        }
+        },
+        "id": "oJ-Hkt7V-FS6",
+        "outputId": "d701d9c2-8b4c-41f6-8835-9c328907c642"
       },
       "execution_count": 3,
       "outputs": [
@@ -75,12 +75,12 @@
         "plt.show()"
       ],
       "metadata": {
-        "id": "VLSr6wvo-RRn",
-        "outputId": "4e5f6407-ef4e-4219-fe24-aeab121bd7b5",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 430
-        }
+        },
+        "id": "VLSr6wvo-RRn",
+        "outputId": "4e5f6407-ef4e-4219-fe24-aeab121bd7b5"
       },
       "execution_count": 4,
       "outputs": [
@@ -108,12 +108,12 @@
         "plt.show()"
       ],
       "metadata": {
-        "id": "Y4dXYYPM-Yss",
-        "outputId": "b780ddd0-ed6d-4f92-8b0f-832c5e61de28",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 430
-        }
+        },
+        "id": "Y4dXYYPM-Yss",
+        "outputId": "b780ddd0-ed6d-4f92-8b0f-832c5e61de28"
       },
       "execution_count": 6,
       "outputs": [
@@ -150,12 +150,12 @@
         "plt.show()\n"
       ],
       "metadata": {
-        "id": "_1AJPZEuB5rI",
-        "outputId": "b7d7599e-4542-4932-e5c6-f505e12fb520",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 447
-        }
+        },
+        "id": "_1AJPZEuB5rI",
+        "outputId": "b7d7599e-4542-4932-e5c6-f505e12fb520"
       },
       "execution_count": 7,
       "outputs": [
@@ -224,12 +224,12 @@
         "plt.show()"
       ],
       "metadata": {
-        "id": "6H_5x1S_AjKx",
-        "outputId": "c5e8d22b-e2aa-464b-fd52-43d8146bf925",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 487
-        }
+        },
+        "id": "6H_5x1S_AjKx",
+        "outputId": "c5e8d22b-e2aa-464b-fd52-43d8146bf925"
       },
       "execution_count": 5,
       "outputs": [
@@ -261,12 +261,12 @@
         "plt.show()"
       ],
       "metadata": {
-        "id": "MUcDOBGTDP6o",
-        "outputId": "47833745-fbdf-4a06-de77-5e7f73497723",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 872
-        }
+        },
+        "id": "MUcDOBGTDP6o",
+        "outputId": "47833745-fbdf-4a06-de77-5e7f73497723"
       },
       "execution_count": 17,
       "outputs": [
@@ -324,6 +324,7 @@
   "metadata": {
     "colab": {
       "name": "Welcome To Colab",
+      "toc_visible": true,
       "provenance": [],
       "include_colab_link": true
     },
